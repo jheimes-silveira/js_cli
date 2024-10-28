@@ -36,7 +36,7 @@ Cria as variaveis configuraveis do seu projeto, gerando uma estrutura básica, o
 # Generate Micro Frontend
 ft_cli mf
 ```
-Selecione o componente que deseja criar e escreva o nome em _snakeCase_.
+Selecione o componente que deseja criar e escreva o nome em _PascalCase_.
 
 <details>
 <summary>Resultado</summary>
